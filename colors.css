@@ -1,0 +1,9 @@
+@media only screen {
+  :root {
+    --DarkBlue: #004972;
+    --LightBlue: #4495C2;
+    --White: #ffffff;
+    --Red: #E63946;
+    --LightRed:#E63946;
+  }
+}
